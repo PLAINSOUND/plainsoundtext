@@ -3,9 +3,7 @@
 A somewhat condensed, Univers-inspired sans serif with integrated Helmholtz-Ellis Just Intonation (HEJI)
 accidentals. See section “Typing accidentals” for information on HEJI usage.
 
-Currently in development. Beta versions of regular and bold weights with their italics available. 
-
-![Specimen](Testing/Specimen.png)
+Currently in development.
 
 ## License
 
@@ -18,7 +16,7 @@ relating to otonality vs. utonality (“o” vs. “u”) and prime number ident
 automatically transform as ligatures into the desired accidental.
 
 | Accidental description                               | Unicode | Type this |
-| ---------------------------------------------------- | ------- | --------- |
+|------------------------------------------------------|---------|-----------|
 | Flat                                                 | U+E260  | \*f       |
 | Natural                                              | U+E261  | \*n       |
 | Sharp                                                | U+E262  | \*s       |
