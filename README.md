@@ -3,7 +3,7 @@
 A somewhat condensed, Univers-inspired sans serif with integrated Helmholtz-Ellis Just Intonation (HEJI)
 accidentals. See section “Typing accidentals” for information on HEJI usage.
 
-Currently in development.
+Currently in development. The folder "fontforge" contains a .sfd file with latest additions and an experimental release of the font based on these modifications.
 
 ## License
 
